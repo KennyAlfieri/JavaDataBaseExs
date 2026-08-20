@@ -27,6 +27,6 @@ public class VendedorDAO implements GenericDAO<Vendedor,  Integer>{
 
     @Override
     public List<Vendedor> listar() {
-        return List.of();
+        return null;
     }
 }
